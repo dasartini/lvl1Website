@@ -1,0 +1,49 @@
+* {
+    background-image: url("/9abd703d-6dfb-420e-ab68-77bafa4c24e3.jpeg");
+}
+
+body{
+margin: 50px;
+    color: white 
+}
+.yes {
+  border-radius: 50%;
+
+}
+.Dolan {border-radius: 800px;}
+.void {border-radius: 50%;
+text-align: center;
+opacity: 0.9;}
+.fetish{border-radius: 50%;}
+
+h1{font-size: 70px;
+    font-weight: 600;
+    color: #fdfdfe;
+    text-shadow: 0px 0px 5px #b393d3, 0px 0px 10px #b393d3, 0px 0px 10px #b393d3,
+      0px 0px 20px #b393d3;
+    text-align: center;
+}
+h2 {font-size: 70px;
+    font-weight: 400;
+    color: #fdfdfe;
+    text-shadow: 0px 0px 5px #7f3bc2, 0px 0px 10px #5e209c, 0px 0px 10px #db248f,
+      0px 0px 20px #b393d3;
+    text-align: center;}
+h3 {font-size: 80px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.so{text-align:;
+    font-size: 35px}
+.ad{font-size: 30px;}
+.dont{ text-align: center;
+    font-size: 80px}
+ol{ font-size: 20px;
+    color: rgb(0, 207, 79);}
+ul{color:burlywood;
+font-size: 25px;}
+p{font-size: 40px}
+.boxes{
+    border: 1px dashed;
+    display: grid;
+    grid-template-columns: 33% 33% 33%
+}
